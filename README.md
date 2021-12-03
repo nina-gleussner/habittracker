@@ -12,11 +12,17 @@ afterwards it should look like this:
 
 
 returnhabits() > returns all habits 
+
 longeststreak(name) > returns the longest streak of a specific habit
+
 returnstreak(name) > returns the current streak of a specific habit
+
 sameperiodicity(periodicity) > returns all habits with the named periodicity
+
 delete(name) > deletes a specific habit
+
 check(name) > checks a specific habit
+
 newhabit(name, periodicity) > creates a new habit
 
 
