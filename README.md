@@ -1,13 +1,11 @@
 # habittracker
 Small habittracker app. Used through the command line
 
-Setup a virtual enviroment with (pip install virtualenv) virtualenv venv 
+Setup a virtual enviroment with (pip install virtualenv) virtualenv venv (while being in the folder with all the code)
 
 And activate it .\venv\Scripts\activate
 
 Install the setup.py with: pip install .
-
-to setup the database run the database.py script and afterwards you can load in example data by running the exampledata.py script
 
 call the habittracker with the command done
 
