@@ -7,7 +7,7 @@ And activate it .\venv\Scripts\activate
 
 Install the setup.py with: pip install .
 
-call the habittracker with the command done
+call the habittracker with the command <\b> done <\b>
 
 afterwards it should look like this:
 
