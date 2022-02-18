@@ -1,5 +1,5 @@
 # habittracker
-Small habittracker app. Used through the command line
+Small habittracker app. Used through the command line. This app was writen on/for Windows (10/11)
 
 Setup a virtual enviroment with (pip install virtualenv) virtualenv venv (while being in the folder with all the code)
 
